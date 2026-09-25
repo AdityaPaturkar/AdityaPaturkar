@@ -1,6 +1,4 @@
 <p align="center">
-  <img
-    src="./Github%20Banner.png"
     alt="ADITYA PATURKAR — Banner"
     style="
       width: 100%;
