@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Aditya
 
-<!--
-**AdityaPaturkar/AdityaPaturkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst → AI/ML Engineer
 
-Here are some ideas to get you started:
+Python • SQL • Pandas • NumPy • Machine Learning • DSA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+```python
+class Aditya:
+
+    def __init__(self):
+        self.role = "Engineer"
+        self.learning = [
+            "Python",
+            "DSA",
+            "AI/ML",
+            "Data Science"
+        ]
+
+        self.goal = "Build systems that matter"
+
+    def current_focus(self):
+        return "AI + ML + DSA"
