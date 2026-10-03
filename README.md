@@ -27,9 +27,9 @@ expertise:
   - Python
   - Data structures & algorithms (DSA)
 email: adityapaturkar2405@gmail.com
-summary: >
+summary: 
   I work at the intersection of analytics and machine learning—cleaning data,
-  extracting insights, and communicating results through dashboards and code.
+  extracting insights, and communicating results through dashboards and code. :)
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=4c1d95&height=36&section=header&text=Projects&fontSize=17&fontColor=e9d5ff&animation=scaleIn"/>
@@ -66,12 +66,6 @@ summary: >
   <a href="https://www.linkedin.com/in/aditya-paturkar-20b06139b/?isSelfProfile=true" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-aditya--paturkar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=e9d5ff&labelColor=050508" alt="LinkedIn"/>
   </a>
-</p>
-
-<p align="center">
-  <a href="https://kaggle.com/adityapaturkar2405" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="40" width="48"/></a>
-  &nbsp;&nbsp;
-  <a href="https://www.leetcode.com/aditya_paturkar/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="48"/></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=4c1d95&height=36&section=header&text=Languages%20%26%20Tools&fontSize=17&fontColor=e9d5ff&animation=blinking"/>
