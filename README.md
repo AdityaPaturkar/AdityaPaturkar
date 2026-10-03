@@ -20,7 +20,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdityaPaturkar&theme=discord&no-frame=true&margin-w=8&row=1&column=6" alt="GitHub trophies"/>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=AdityaPaturkar&theme=darkhub&no-frame=true&margin-w=12&margin-h=8&row=1&column=6&cache_seconds=1800"
+    alt="GitHub trophies"
+    onerror="this.onerror=null;this.src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdityaPaturkar&theme=github_dark&cache_seconds=1800';"
+  />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=4c1d95&height=36&section=header&text=About%20Me&fontSize=17&fontColor=e9d5ff&animation=twinkling"/>
@@ -75,8 +79,8 @@ summary: >
     <img src="https://img.shields.io/badge/LeetCode-aditya__paturkar-FFA116?style=for-the-badge&logo=leetcode&logoColor=050508&labelColor=312e81" alt="LeetCode"/>
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/adityapaturkar/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-adityapaturkar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=e9d5ff&labelColor=050508" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/aditya-paturkar-20b06139b/?isSelfProfile=true" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-aditya--paturkar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=e9d5ff&labelColor=050508" alt="LinkedIn"/>
   </a>
 </p>
 
