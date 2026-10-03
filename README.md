@@ -20,9 +20,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AdityaPaturkar&theme=discord&no-frame=true&margin-w=8&column=7" alt="GitHub trophies"/>
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=AdityaPaturkar&theme=discord&no-frame=true&margin-w=8&row=1&column=6" alt="GitHub trophies"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=4c1d95&height=36&section=header&text=About%20Me&fontSize=17&fontColor=e9d5ff&animation=twinkling"/>
