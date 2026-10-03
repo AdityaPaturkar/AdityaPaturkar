@@ -5,8 +5,8 @@
 
 <p align="center">
   <img
-    src="https://media.giphy.com/media/3o6gb2uS9kFfC1H0k8/giphy.gif"
-    alt="Sung Jinwoo — Shadow Dagger"
+    src="https://media.giphy.com/media/l0HYPKvMdjM3yXKJi/giphy.gif"
+    alt="Sung Jinwoo — Shadow Dagger Summon"
     width="520"
     style="max-width: 90%; border-radius: 10px;"
   />
@@ -77,7 +77,7 @@ summary:
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=4c1d95&height=36&section=header&text=Languages%20%26%20Tools&fontSize=17&fontColor=e9d5ff&animation=blinking"/>
+
 
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
