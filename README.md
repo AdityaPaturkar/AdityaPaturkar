@@ -44,12 +44,6 @@ summary: >
   extracting insights, and communicating results through dashboards and code.
 ```
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Data_Scientist-Analytics_%26_Insights-7c3aed?style=for-the-badge&labelColor=050508&logo=python&logoColor=e9d5ff" alt="Data Scientist"/>
-  <img src="https://img.shields.io/badge/AI%2FML_Engineer-Models_%26_Pipelines-312e81?style=for-the-badge&labelColor=050508&logo=pytorch&logoColor=38bdf8" alt="AI ML Engineer"/>
-  <img src="https://img.shields.io/badge/Stack-Python_%7C_MySQL_%7C_Power_BI-a78bfa?style=for-the-badge&labelColor=050508" alt="Stack"/>
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=soft&color=4c1d95&height=36&section=header&text=Projects&fontSize=17&fontColor=e9d5ff&animation=scaleIn"/>
 
 <p align="center">
