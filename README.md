@@ -19,14 +19,6 @@
   <img src="https://img.shields.io/badge/Role-Data_Scientist_%7C_AI%2FML_Engineer-7c3aed?style=for-the-badge&labelColor=050508&logo=googlecloud&logoColor=e9d5ff" alt="Role"/>
 </p>
 
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=AdityaPaturkar&theme=darkhub&no-frame=true&margin-w=12&margin-h=8&row=1&column=6&cache_seconds=1800"
-    alt="GitHub trophies"
-    onerror="this.onerror=null;this.src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdityaPaturkar&theme=github_dark&cache_seconds=1800';"
-  />
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=soft&color=4c1d95&height=36&section=header&text=About%20Me&fontSize=17&fontColor=e9d5ff&animation=twinkling"/>
 
 ```yaml
@@ -104,10 +96,6 @@ summary: >
   <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="64" height="64"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,pycharm&theme=dark&perline=3" alt="Tech stack"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=4c1d95&height=36&section=header&text=GitHub%20Activity&fontSize=17&fontColor=e9d5ff&animation=twinkling"/>
