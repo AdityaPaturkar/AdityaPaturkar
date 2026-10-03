@@ -5,8 +5,8 @@
 
 <p align="center">
   <img
-    src="https://media.giphy.com/media/l0HYPKvMdjM3yXKJi/giphy.gif"
-    alt="Sung Jinwoo — Shadow Dagger Summon"
+    src="https://c.tenor.com/YS9Z2bFqHxMAAAAd/sung-jinwoo-solo-leveling.gif"
+    alt="Sung Jinwoo — Shadow Dagger Summon (Solo Leveling)"
     width="520"
     style="max-width: 90%; border-radius: 10px;"
   />
