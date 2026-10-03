@@ -5,7 +5,7 @@
 
 <p align="center">
   <img
-    src="https://i.giphy.com/media/xT9IgB5Q46M0GXyVnG/giphy.webp"
+    src="https://media.giphy.com/media/fzinpRrJuQhOV1W0y5/giphy.gif"
     alt="Sung Jinwoo — Solo Leveling"
     width="520"
     style="max-width: 90%; border-radius: 10px;"
