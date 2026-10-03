@@ -5,7 +5,7 @@
 
 <p align="center">
   <img
-    src="./jinwoo.gif"
+    src="https://raw.githubusercontent.com/AdityaPaturkar/AdityaPaturkar/main/jinwoo.gif"
     alt="Sung Jinwoo — Solo Leveling"
     width="520"
     style="max-width: 90%; border-radius: 10px;"
