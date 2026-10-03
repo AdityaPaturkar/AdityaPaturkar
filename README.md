@@ -93,32 +93,6 @@ summary:
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=4c1d95&height=36&section=header&text=Trophies&fontSize=17&fontColor=e9d5ff&animation=scaleIn"/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🏆%20Commits-Champion-7c3aed?style=for-the-badge&labelColor=050508" alt="Commits"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/⭐%20Stars-Collector-a78bfa?style=for-the-badge&labelColor=050508" alt="Stars"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/🍴%20Forks-Master-4c1d95?style=for-the-badge&labelColor=050508" alt="Forks"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/👥%20Followers-Rising-c4b5fd?style=for-the-badge&labelColor=050508" alt="Followers"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/📦%20Repos-Builder-312e81?style=for-the-badge&labelColor=050508" alt="Repos"/>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=4c1d95&height=36&section=header&text=Badges&fontSize=17&fontColor=e9d5ff&animation=fadeIn"/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Hacktoberfest-Participant-7c3aed?style=for-the-badge&logo=hacktoberfest&logoColor=e9d5ff&labelColor=050508" alt="Hacktoberfest"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-4c1d95?style=for-the-badge&logo=github&logoColor=e9d5ff&labelColor=050508" alt="Open Source"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Data%20Science-Enthusiast-a78bfa?style=for-the-badge&logo=python&logoColor=050508&labelColor=1e1035" alt="Data Science"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Kaggle-Notebook%20Expert-20BEFF?style=for-the-badge&logo=kaggle&logoColor=050508&labelColor=e9d5ff" alt="Kaggle"/>
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=soft&color=4c1d95&height=36&section=header&text=GitHub%20Activity&fontSize=17&fontColor=e9d5ff&animation=twinkling"/>
 
 <p align="center">
