@@ -77,7 +77,7 @@ summary:
   </a>
 </p>
 
-
+<img src="https://capsule-render.vercel.app/api?type=soft&color=4c1d95&height=36&section=header&text=Tech%20Stack&fontSize=17&fontColor=e9d5ff&animation=fadeIn"/>
 
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
