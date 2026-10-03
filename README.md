@@ -139,25 +139,25 @@ summary: >
 <img src="https://capsule-render.vercel.app/api?type=soft&color=4c1d95&height=36&section=header&text=GitHub%20Activity&fontSize=17&fontColor=e9d5ff&animation=twinkling"/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaPaturkar&show_icons=true&rank_icon=percentile&include_all_commits=true&count_private=true&hide_border=true&bg_color=050508&title_color=a78bfa&icon_color=7c3aed&text_color=e9d5ff&border_radius=12" height="165" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AdityaPaturkar&show_icons=true&rank_icon=percentile&include_all_commits=true&count_private=true&hide_border=true&bg_color=050508&title_color=a78bfa&icon_color=7c3aed&text_color=e9d5ff&border_radius=12&cache_seconds=1800" height="165" alt="GitHub stats"/>
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaPaturkar&hide_border=true&background=050508&stroke=4c1d95&ring=7c3aed&fire=a78bfa&currStreakLabel=c4b5fd&sideLabels=e9d5ff&currStreakNum=e9d5ff&sideNums=e9d5ff&dates=6b7280" height="165" alt="Contribution streak"/>
+  <img src="https://streak-stats.demolab.com?user=AdityaPaturkar&hide_border=true&background=050508&stroke=4c1d95&ring=7c3aed&fire=a78bfa&currStreakLabel=c4b5fd&sideLabels=e9d5ff&currStreakNum=e9d5ff&sideNums=e9d5ff&dates=6b7280&cache_seconds=1800" height="165" alt="Contribution streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaPaturkar&layout=compact&hide_border=true&bg_color=050508&title_color=a78bfa&text_color=e9d5ff&langs_count=8&border_radius=12" height="165" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaPaturkar&layout=compact&hide_border=true&bg_color=050508&title_color=a78bfa&text_color=e9d5ff&langs_count=8&border_radius=12&cache_seconds=1800" height="165" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaPaturkar&bg_color=050508&color=e9d5ff&line=7c3aed&point=38bdf8&area=true&area_color=4c1d95&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution graph"/>
+  <img src="https://ghchart.rshah.org/7c3aed/AdityaPaturkar" alt="Contribution graph"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=4c1d95&height=36&section=header&text=Contribution%20Graph&fontSize=17&fontColor=e9d5ff&animation=scaleIn"/>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdityaPaturkar/AdityaPaturkar/output/github-contribution-grid-snake-dark.svg"/>
-    <img src="https://raw.githubusercontent.com/AdityaPaturkar/AdityaPaturkar/output/github-contribution-grid-snake.svg" alt="Contribution snake"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution snake"/>
   </picture>
 </p>
 
