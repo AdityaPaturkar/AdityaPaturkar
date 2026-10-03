@@ -96,7 +96,15 @@ summary:
 <img src="https://capsule-render.vercel.app/api?type=soft&color=4c1d95&height=36&section=header&text=Trophies&fontSize=17&fontColor=e9d5ff&animation=scaleIn"/>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdityaPaturkar&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies"/>
+  <img src="https://img.shields.io/badge/🏆%20Commits-Champion-7c3aed?style=for-the-badge&labelColor=050508" alt="Commits"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/⭐%20Stars-Collector-a78bfa?style=for-the-badge&labelColor=050508" alt="Stars"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/🍴%20Forks-Master-4c1d95?style=for-the-badge&labelColor=050508" alt="Forks"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/👥%20Followers-Rising-c4b5fd?style=for-the-badge&labelColor=050508" alt="Followers"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/📦%20Repos-Builder-312e81?style=for-the-badge&labelColor=050508" alt="Repos"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=4c1d95&height=36&section=header&text=Badges&fontSize=17&fontColor=e9d5ff&animation=fadeIn"/>
