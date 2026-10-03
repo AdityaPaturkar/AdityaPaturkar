@@ -3,14 +3,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050508,35:1e1035,65:4c1d95,100:050508&height=240&section=header&text=ADITYA%20PATURKAR&fontSize=44&fontColor=e9d5ff&animation=fadeIn&fontAlignY=34&desc=Data%20Scientist%20%7C%20AI%2FML%20Engineer&descSize=16&descAlignY=58&descAlign=50"/>
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/AdityaPaturkar/AdityaPaturkar/main/jinwoo.gif"
-    alt="Sung Jinwoo — Solo Leveling"
-    width="520"
-    style="max-width: 90%; border-radius: 10px;"
-  />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AdityaPaturkar&label=Profile%20views&color=4c1d95&style=for-the-badge&labelColor=050508" alt="Profile views"/>
