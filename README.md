@@ -25,28 +25,6 @@
   </a>
 </p>
 
-<p align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" width="760" height="56" viewBox="0 0 760 56" role="img" aria-label="Section divider">
-    <defs>
-      <linearGradient id="gateGlow" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#050508"/>
-        <stop offset="30%" stop-color="#7c3aed"/>
-        <stop offset="50%" stop-color="#c4b5fd"/>
-        <stop offset="70%" stop-color="#38bdf8"/>
-        <stop offset="100%" stop-color="#050508"/>
-      </linearGradient>
-      <filter id="purpleGlow">
-        <feGaussianBlur stdDeviation="2.5" result="b"/>
-        <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-      </filter>
-    </defs>
-    <rect x="120" y="8" width="520" height="40" rx="4" fill="none" stroke="url(#gateGlow)" stroke-width="2" filter="url(#purpleGlow)">
-      <animate attributeName="stroke-opacity" values="0.35;1;0.35" dur="2.5s" repeatCount="indefinite"/>
-    </rect>
-    <text x="380" y="34" text-anchor="middle" fill="#a78bfa" font-family="monospace" font-size="12" letter-spacing="3">DATA SCIENCE · ANALYTICS · MACHINE LEARNING</text>
-  </svg>
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=soft&color=4c1d95&height=36&section=header&text=About%20Me&fontSize=17&fontColor=e9d5ff&animation=twinkling"/>
 
 ```yaml
